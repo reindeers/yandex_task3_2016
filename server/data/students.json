@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Иван Иванов",
+        "picSrc": "http://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": 1
+    },
+    {
+        "name": "fdh",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "f11",
+        "id": 2
+    },
+    {
+        "name": "ttt",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "ttt",
+        "id": 3
+    },
+    {
+        "name": "111",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "gg",
+        "id": 4
+    },
+    {
+        "name": "qq",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "dd",
+        "id": 5
+    },
+    {
+        "name": "gg",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "d",
+        "id": 6
+    },
+    {
+        "name": "simpewolf",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "fd",
+        "id": 7
+    },
+    {
+        "name": "complecatedwolf",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "ds",
+        "id": 8
+    },
+    {
+        "name": "wolf1",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "f",
+        "id": 9
+    },
+    {
+        "name": "wolf2",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "f",
+        "id": 10
+    },
+    {
+        "name": "wolf3",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "d",
+        "id": 11
+    },
+    {
+        "name": "wolf4",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "f",
+        "id": 12
+    },
+    {
+        "name": "wolf5",
+        "picSrc": "https://media0.giphy.com/media/lkVO2a0QHIFzi/200_s.gif",
+        "bio": "d",
+        "id": 13
+    }
+]
